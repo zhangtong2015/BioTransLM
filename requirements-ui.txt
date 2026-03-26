@@ -1,0 +1,11 @@
+# BioTransLM UI 额外依赖
+# 在原有 requirements.txt 基础上新增以下依赖
+
+# Web 界面框架
+gradio>=4.0.0
+
+# 可视化图表
+plotly>=5.18.0
+
+# 数据处理（如果未安装）
+pandas>=2.0.0
