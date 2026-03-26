@@ -197,9 +197,9 @@ https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh
 - ⚖️ 许可证相关问题
 
 **联系方式**：
-- Email: [your-email@example.com]
-- GitHub: [your-username]
-- 项目地址：https://github.com/your-username/BioTransLM
+- Email: 1677910094@qq.com
+-
+
 
 ---
 
