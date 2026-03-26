@@ -230,7 +230,6 @@ BioTransLM/
 
 - **当前版本**: v3.0
 - **发布日期**: 2026-03-26
-- **模型规模**: ~3.7 亿参数
 - **开发阶段**: 研究原型
 
 ### 已知局限
@@ -258,8 +257,6 @@ BioTransLM/
 ## 📬 联系方式
 
 - 📧 Email: 1677910094@qq.com
-- 💻 GitHub: [your-username]
-- 📝 项目地址：https://github.com/your-username/BioTransLM
 
 **欢迎交流讨论！** 😊
 
